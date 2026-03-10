@@ -1,0 +1,36 @@
+{
+    "MATH2210Q": {
+        "HW": 0.15,
+        "Participation": 0.10, 
+        "Exam 1": 0.20,
+        "Exam 2": 0.20,
+        "Exam 3": 0.20,
+        "Final Exam": 0.15
+    },
+    "ARE1333": {
+        "Quizzes": 0.20,
+        "Assignments": 0.50,
+        "Group Project": 0.20,
+        "Participation": 0.10
+    },
+    "COMM2600": {
+        "Exam 1": 0.35,
+        "Exam 2": 0.35,
+        "Quizzes": 0.15,
+        "Discussion": 0.15
+    },
+    "ESPY3090": {
+        "Peer Mentoring Facilitation": 0.50,
+        "Participation": 0.20,
+        "Critical Reflection 1": 0.10,
+        "Critical Reflection 2": 0.10,
+        "Final Project": 0.10
+    },
+    "STAT3025Q": {
+        "Homework": 0.25,
+        "Quizzes": 0.10,
+        "Midterm exam 1": 0.20,
+        "Midterm exam 2": 0.20,
+        "Final Exam": 0.25
+    }
+}
